@@ -1,0 +1,46 @@
+.image{
+    height: 300px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.container{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 10px;
+     background-color: #F8F1E6;
+}
+.container:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.content{
+    padding: 20px;
+}
+.title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #211D1B;
+    letter-spacing: 1px;
+}
+.para{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #76726C;
+    margin-top: 20px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+.bt{
+    background: none;
+    border: none;
+    font-weight: 600;
+    margin-top: 20px;
+    letter-spacing: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #6F4B23;
+    text-decoration: 1px underline #6F4B23;
+    text-underline-offset: 8px;
+    cursor: pointer;
+    font-size: 14px;
+}
+span{
+    color: #6F4B23;
+}
